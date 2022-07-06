@@ -1,0 +1,19 @@
+.links {
+  margin: 10% auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.butPages {
+  margin: 10% auto;
+  padding: 10px 50px;
+  border: 2.5px solid purple;
+  border-radius: 10px
+
+}
+.butPages:hover {
+  color: white;
+  background-color: purple;
+}
